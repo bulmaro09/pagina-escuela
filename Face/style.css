@@ -1,0 +1,76 @@
+.linea {
+  border-top: 1px solid black;
+  height: 2px;
+  padding: 0;
+  margin: 20px auto 0 auto;
+}
+#forma {
+    font: caption;
+  }
+  .imgredonda {
+    width:55px;
+    height:55px;
+    float: left;
+    border-radius:150px;
+}
+
+.imgredonda1 {
+    width:15px;
+    height:15px;
+}
+
+#punto{
+    float: right;
+}
+span {
+  font-size: 42px;
+}
+.imgredondas {
+    width:18px;
+    height:18px;
+}
+.imgredondass {
+    width:18px;
+    height:18px;
+} 
+#com {
+    float: right;
+
+}
+
+.centro {
+    text-align: center;
+    word-spacing: 310px;
+    font-size: 20px;
+  }
+
+  .c {
+    text-align: left;
+    word-spacing: 28px;
+    font-size: 14px;
+  }
+ 
+  .text {
+    float: left;
+    width: 1200px;
+    height: 75px;
+    background-color: #b1c5ad;
+    padding: 10px;    
+    color: #000000;
+    border-radius: 10px;
+   
+    
+}
+.wrapper {
+  background-image: linear-gradient(-225deg, #b1c5ad 25%, #b1c5ad 75%);
+  margin: 20px auto;
+  width: 100%;
+  max-width: 1250px;
+  overflow: hidden;
+  border: 6px solid#b1c5ad;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  color: black;
+  font-family: cursive;
+}
